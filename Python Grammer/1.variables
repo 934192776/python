@@ -6,3 +6,4 @@
 money = 50
 # 通过print语句，输出变量记录的内容
 print(money)
+

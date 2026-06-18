@@ -55,3 +55,17 @@ if height >= 120:
     print("pay 10$ more")
 else:
     print("Enjoy the trip")
+
+
+# if elielsef  pattern 
+
+# the 1st if
+if int(input("input your height(cm):")) < 120:
+    print("Enjoy the trip")
+elif input("input your vip level(1-5):") > 3:
+    print("enjoy your trip")
+elif int(input("input your day:")) == 1:
+        print("Free trip")
+else:
+    print("pay 10$ more")
+    

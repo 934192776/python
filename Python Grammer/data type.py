@@ -34,3 +34,24 @@ studentnickname = "jing hui"
 first_number = "8"
 student_nickname = "jing hui"
 print(first_number, student_nickname)
+
+# if pattern
+
+age = 30
+if age >= 18:
+    print("adult")
+
+age = int(input("input your age:"))
+
+# if for adult or not
+if age >= 18:
+    print("adult, pay 10$ more")
+else:
+    print("Enjoy the trip")
+
+# height data
+height = int(input("input your height(cm):"))
+if height >= 120:
+    print("pay 10$ more")
+else:
+    print("Enjoy the trip")

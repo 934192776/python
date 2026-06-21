@@ -68,5 +68,3 @@ elif int(input("input your day:")) == 1:
         print("Free trip")
 else:
     print("pay 10$ more")
-
-    

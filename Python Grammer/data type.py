@@ -69,3 +69,4 @@ elif int(input("input your day:")) == 1:
 else:
     print("pay 10$ more")
     
+

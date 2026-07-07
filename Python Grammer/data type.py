@@ -70,5 +70,3 @@ else:
     print("pay 10$ more")
     
 
-
-
